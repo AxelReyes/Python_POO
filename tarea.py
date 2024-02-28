@@ -19,10 +19,10 @@ class PinguinosGalacticos:
 
 class ToyotaLegacy:
     nombre1="Israel Chacon Rojo"
-    nombre2="Israel Chacon Rojo"
-    nombre3="Israel Chacon Rojo"
+    nombre2="Dilan Mauricio Garcia Hernandez"
+    nombre3="Jesus Elias Sierra Ruiz"
 
-class ToyotaLegacy:
+class UwU:
     nombre1="Leonardo Alberto Gonzáles Carmona"
     nombre2="Norma Graciela Mendoza Ruiz"
     nombre3="Jonathan Durán Mendoza"
