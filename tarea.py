@@ -43,7 +43,7 @@ class FS3:
         resultado = ""
         for equipo in self.equipos:
            # el type.__main__ regresa el nombre de la clase, para ahorrarme en escribir otro atributo de los nombres de cada equipo :))))))
-            resultado += "\n Nombre del Equipo: {}\n Integrantes: \n- {}\n- {}\n- {}".format(type(equipo).__name__, equipo.nombre1, equipo.nombre2,equipo.nombre3) +"\n---------------------------------------------------\n"
+            resultado += "\n Equipo: {}\n Integrantes: \n- {}\n- {}\n- {}".format(type(equipo).__name__, equipo.nombre1, equipo.nombre2,equipo.nombre3) +"\n---------------------------------------------------\n"
         return resultado
 
 if __name__ == "__main__":
